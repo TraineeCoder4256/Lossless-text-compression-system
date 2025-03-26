@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 model1.pth filter=lfs diff=lfs merge=lfs -text
+=======
+*.pth filter=lfs diff=lfs merge=lfs -text
+saved_model.pth filter=lfs diff=lfs merge=lfs -text
+>>>>>>> c5d1ee29c4ac169ed62f741e6b9f5f89f4540c47
